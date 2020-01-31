@@ -13,7 +13,9 @@ The `WatchlistService` object will be your primary interface. It contains the fo
 ---
 
 `Watchlist` objects themselves also have these methods:
+
 `addSymbol(symbol)` – Add the given symbol to the watchlist. Throws an error if the symbol is already in the watchlist.
+
 `removeSymbol(symbol)` – Remove the given symbol from the watchlist.
 
 A watchlist's symbols can be accessed via the `symbols` property, and its name via the `name` property.
