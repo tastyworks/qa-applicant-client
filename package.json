@@ -1,0 +1,12 @@
+{
+  "name": "qa-applicant-client",
+  "version": "1.0.0",
+  "description": "Client for QA applicants to tastyworks",
+  "main": "index.js",
+  "repository": "https://github.com/tastyworks/qa-applicant-client",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "local-storage": "^2.0.0"
+  }
+}
